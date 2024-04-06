@@ -1,1 +1,1 @@
-# flight-service-satisfaction-prediction-using-logistic-regression
+# ML Projects
